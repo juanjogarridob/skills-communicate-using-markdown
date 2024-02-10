@@ -1,0 +1,11 @@
+# Actividad Genética
+
+  ## Objetivo del directorio
+En este directorio se incluirían todos los archivos iniciales para realizar la actividad.
+
+  ## Control de archivos
+También se puede emplear un archivo que permita controlar la subida de todos los archivos necesarios con una lista.
+
+- [X] Archivo Word con enunciado de la actividad.
+- [ ] Archivos .csv con datos necesarios para actividad.
+- [ ] Archivo .txt con nombre de columnas
